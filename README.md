@@ -30,3 +30,29 @@ Power Query
 <img width="891" height="400" alt="image" src="https://github.com/user-attachments/assets/ccd2bc91-ae44-4306-97dc-1bbe77514efe" />
 
 <img width="624" height="348" alt="image" src="https://github.com/user-attachments/assets/d2d18446-976a-4523-8727-6f2bb1335314" />
+
+
+# National Store Sales Analysis
+I just completed a hands-on Power BI exercise focused on analyzing the business health of a retail chain by tracking sales, profitability, regional, and product-wise performance using real datasets.
+🚀 What I did:
+ ✅ Performed the ETL process (Extract, Transform, Load) using Power Query
+ ✅ Built data relationships across Sales Table, Product Table, and a custom Date Table
+ ✅ Created calculated measures and columns for sales, profit %, and KPIs
+ ✅ Designed 3 insightful dashboards:
+📅 Monthly Sales/Profit %
+📦 Sales by Product Hierarchy
+🌍 Region-wise Sales Performance
+🛠️ Tools used:
+Power BI Desktop
+DAX Measures
+Power Query for data transformation
+Custom visuals & icons for clean dashboard design
+This project helped sharpen my skills in data cleaning, modeling, and dashboard storytelling. 💡
+📸 Sharing a few screenshots of my dashboards below!
+
+No alternative text description for this image
+
+No alternative text description for this image
+
+No alternative text description for this image
+
